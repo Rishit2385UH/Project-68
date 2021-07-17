@@ -1,0 +1,10 @@
+html {
+     scroll-behavior: smooth;
+}
+
+.announcement {
+    height: 6px;
+    background-color: #07deed;
+    width: 70px;
+    margin: 8px auto;
+}
